@@ -1,16 +1,73 @@
 ---
-title: My Paper
+title: Project Proposals
 authors:
   - name: Mel Balcarcel Arias
-    affiliation: The University
+    affiliation: Colorado State University
     roles: writing
     corresponding: true
   - name: Sean Walsh
-    affiliation: The University
+    affiliation: Colorado State University
     roles: writing
     corresponding: false
 bibliography: references.bib
+csl: apa.csl
 ---
+# Project Ideas
+# Idea 1 
+## Title: Income and how it affects exposure to extreme droughts and heat in Arizona
+## Justification: 
+As climate change is becoming more and more severe, dry and desert states like Arizona are experiencing the brunt of it. With more stringent water management strategies becoming the new norm, the people of Arizona will likely need to make drastic changes to their lifestyles in order to keep up with the adverse effects of climate change. However, as in most cases, people with higher incomes can more easily adapt. People in the lower income strata are more likely to experience much higher heat stress and a lower quality of life [@zhang2024anthropogenic]. With these conditions only worsening, it’s imperative to see just how drastic the inequality is and assess what can be done to help out everyone experiencing these extreme heat conditions [@greene2024equity].
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+## Research Question/Objective/Hypothesis
+How does income level in Arizona affect exposure to heat stress and drought conditions?
+
+## Proposed Methods 
+For this, we can pull income data and map it on Arizona. On top of this there is also temperature data to evaluate where the most extreme heat is seen. Land cover is effective at reducing heat conditions so land cover data could be useful to see if there is an inquality there as well as looking at maps of drought data. 
+
+## Expected Outcomes
+I imagine that there will be a heavy disparity between low and high income when it comes to exposure to higher heat, land cover, and drought conditions. 
+
+# Idea 2 
+## Title: Recent Rates of Air Pollution and Its Effect on Asthma Rates and Respiratory Illnesses
+
+## Justification: 
+Emissions are prevalent, and since it's nigh impossible to prevent exposure to humans from these emissions, we are all exposed to it at one point or another, and there have been health impacts recorded [@malik2024]. Urbanization continues to sprawl and being exposed to smog is common for city dwellers. With access to emission data, and CDC data on asthma rates, it would be interesting to see if these rates are getting worse over time. On top of this, for areas that strive to reduce emissions, it would be interesting to see if asthma rates and respiratory illnesses drop. In addition, after COVID wreaked havoc with it's own respiratory illnesses, it could have left more people vulnerable to current air pollution levels [@monoson2023air]. 
+
+## Research Question: 
+What is the correlation between air pollution and asthma rates/respiratory rates, especially since the few years after the Covid pandemic? 
+
+## Proposed Methods: 
+With EPA data, levels of air pollution could be assessed and mapped. Also, the CDC has datasets on asthma rates that could be useful to see if rates have gone up or down. To bring in the possible COVID connection, COVID data can be used to see which cities had the worst of the epidemic and then cross reference that with asthma rates and air pollution. 
+
+## Expected Outcomes: 
+Hopefully there's a clear correlation, however with rates of respiratory illnesses being studied over long periods of time, it may be a little difficult to get what we want out of the data. However, with some modelling and the data we have, hopefully we'll be able to do a robust analysis. 
+
+# Idea 3 
+## Title: How climate change has led to increased levels bark beetles in California 
+## Justification: 
+It is no surprise that climate change has hit California hard in the past decade. The state constantly deals with high drought levels and massive wildfires throughout the year. However, these aspects of climate change have allowed the bark beetles to thrive in California [@WFCA2023].  Bark beetles have destroyed millions of trees over the last decade in California. According to the USDA, “When the eggs hatch, the numerous larvae then begin feeding on the inner bark, girdling the tree. Additionally, as the adult beetles colonize the tree, they introduce a blue stain fungus that blocks the water conducting cells. This prevents water from getting to the tree crown”. Wildfires and droughts also increase dryness in forest ecosystems, so it would be interesting to see the rates at which the bark beetles affect these areas [@USFSnd]. It has also been proven that bark beetles thrive in hotter and drier conditions, so it would be worth taking a look at how many trees have died due to bark beetles and increased levels of climate change throughout the state of California. 
+
+## Research Question: 
+How have the affects of climate change allowed Bark Beetles to thrive in the state of California? 
+
+## Proposed Methods: 
+There are plenty of mapped datasets from the USGS as well as the state of California on climate change aspects such as wildfires and drought. I have also found datasets on how many trees bark beetles have killed throughout California. I believe that my main objective will be to find a main correlation between the two sets of data.  
+
+## Expected Outcomes: 
+Hopefully there can be a clear connection found between climate change and bark beetle's rates in certain areas in California. However, it might be hard to correlate if bark beetles just thrive in general, or that they thrive more in areas affected by climate change. With both these sets of data I can map out and access the data.  
+
+# Idea 4 
+## Title: Costal Storms and How They Affect Water Quality
+## Justification: 
+In the 21st century, America has seen a huge increase in costal storms and hurricanes in the southeastern part of the United States. These costal storms cause thousands of coastal communities across the United States to be at harm. Not only do these ruin lives and cause billions of dollars in damage, but they heavily affect water quality levels. The storms that roll into these coastal areas push toxins and saltwater into groundwater sources as well as above ground water resources [@Kisters2025]. The saltwater that pushes into these terrestrial lands alters the oxygen levels in freshwater. Not only do the storms affect groundwater, but they also affect stormwater and sewage water systems. According to the website Hydroviv, “Heavy rain and flooding can cause these systems to overflow, allowing untreated water to spill into nearby water sources, potentially contaminating drinking water supplies” [@LiuDriehaus2024].  The overwhelming amount of stormwater that comes in from costal storms clearly heavily affects water quality levels, it would be interesting to analyze what states have been affected the most.
+
+## Research Question: 
+How much have coastal storms affected water quality levels in coastal areas?
+
+## Proposed Methods: 
+Based on my research, there is plenty of hurricane data on the USGS, as well as water quality data. My main objective will be to map out both sets of data and find a correlation between them. If I am having trouble doing this, I can find other storm and water quality data that is on other notable data sites.
+
+## Expected Outcomes:
+Hopefully through the data I mapped out and accessed, I can find a clear correlation between costal storms and freshwater quality in terrestrial areas. I believe with strong concrete data I can find a correlation between the two datasets.  
+
+
